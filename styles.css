@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: aqua;
+    background-color: black;
+    border: 2px;
+    border-style: solid;
+    border-radius:10px ;
+}
